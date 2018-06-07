@@ -1,0 +1,16 @@
+C:\Users\takuya\Desktop\年収計算\NensyuKeisan\NensyuKeisan\bin\Release\NensyuKeisan.exe
+C:\Users\takuya\Desktop\年収計算\NensyuKeisan\NensyuKeisan\bin\Release\NensyuKeisan.pdb
+C:\Users\takuya\Desktop\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Release\NensyuKeisan.Form1.resources
+C:\Users\takuya\Desktop\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Release\NensyuKeisan.Properties.Resources.resources
+C:\Users\takuya\Desktop\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Release\NensyuKeisan.csproj.GenerateResource.Cache
+C:\Users\takuya\Desktop\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Release\NensyuKeisan.exe
+C:\Users\takuya\Desktop\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Release\NensyuKeisan.pdb
+C:\Users\takuya\Desktop\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Release\NensyuKeisan.csprojResolveAssemblyReference.cache
+C:\GitHub\gittest\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Release\NensyuKeisan.exe
+C:\GitHub\gittest\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Release\NensyuKeisan.pdb
+C:\GitHub\gittest\年収計算\NensyuKeisan\NensyuKeisan\bin\Release\NensyuKeisan.exe
+C:\GitHub\gittest\年収計算\NensyuKeisan\NensyuKeisan\bin\Release\NensyuKeisan.pdb
+C:\GitHub\gittest\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Release\NensyuKeisan.csprojResolveAssemblyReference.cache
+C:\GitHub\gittest\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Release\NensyuKeisan.Form1.resources
+C:\GitHub\gittest\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Release\NensyuKeisan.Properties.Resources.resources
+C:\GitHub\gittest\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Release\NensyuKeisan.csproj.GenerateResource.Cache

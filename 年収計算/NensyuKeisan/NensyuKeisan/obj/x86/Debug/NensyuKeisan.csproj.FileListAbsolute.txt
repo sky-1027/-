@@ -1,0 +1,6 @@
+C:\Users\takuya\Desktop\年収計算\NensyuKeisan\NensyuKeisan\bin\Debug\NensyuKeisan.exe
+C:\Users\takuya\Desktop\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Debug\NensyuKeisan.Form1.resources
+C:\Users\takuya\Desktop\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Debug\NensyuKeisan.Properties.Resources.resources
+C:\Users\takuya\Desktop\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Debug\NensyuKeisan.csproj.GenerateResource.Cache
+C:\Users\takuya\Desktop\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Debug\NensyuKeisan.exe
+C:\Users\takuya\Desktop\年収計算\NensyuKeisan\NensyuKeisan\obj\x86\Debug\NensyuKeisan.csprojResolveAssemblyReference.cache
